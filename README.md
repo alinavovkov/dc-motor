@@ -1,1 +1,1 @@
-DC-motor / python 
+DC-motor / simulink 
