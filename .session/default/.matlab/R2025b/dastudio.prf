@@ -7,7 +7,7 @@
 DDGFontSize=10
 
 [DAStudio Model Explorer]
-MEGeometry=1470 769 747 518
+MEGeometry=1469 746 756 545
 MESearchOptions_DeepSearch=1
 MESearchOptions_EvaluateProperties=0
 MESearchOptions_MatchCase=0
@@ -15,4 +15,37 @@ MESearchOptions_MatchWholeString=0
 MESearchOptions_RefineAnd=0
 MESearchOptions_RegularExpression=1
 MESearchOptions_SearchLinks=0
-MESearchOptions_SearchMasks=
+MESearchOptions_SearchMasks=0
+MESplitterPositions=4450143603508133
+METreeClassNames=Root,
+METreeClassRecord_Root::ObjectTypes=BlockDiagram,
+METreeClassRecord_Root::PropertyList=Name,ModelVersion,LastSaved,LibraryLinkDisplay,ModelBrowserVisibility,Dirty,Description,
+
+[GLUEEditorPreferences]
+FirstTimeScrollNotification=0
+FirstTimeSimulinkPortMoveTool=1
+SuggestQuickInsertNotification=0
+
+[General]
+MatlabRelease=2025b
+
+[LibraryBrowser2]
+LBRecentName0=simulink/Math Operations/Sum
+LBRecentName1=simulink/Sinks/Out1
+LBRecentName2=simulink/Commonly Used Blocks/Out1
+LBRecentName3=simulink/Signal Routing/Mux
+LBRecentName4=simulink/Sinks/Scope
+LBRecentName5=simulink/Continuous/Integrator
+LBRecentName6=simulink/Math Operations/Gain
+LBRecentName7=simulink/Sources/Constant
+LBRecentName8=simulink/Sources/Step
+LBScaleFactor=1
+LBSearchHistory=outport,
+LBSearch_MatchCase=0
+LBSearch_MatchWholeWord=0
+LBSearch_UseRegExp=0
+LBSortStyle=0
+LBTreePopupHeight=500
+LBTreePopupWidth=250
+LBUseCache=1
+
